@@ -72,6 +72,10 @@ main{
     border-style:solid;
     border-color: darkred;
 }
+.main{
+    font-size: 25px;
+    font-family:serif;
+}
 /*   
 .aside{
     grid-column:3/5;
